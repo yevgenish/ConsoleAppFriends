@@ -133,6 +133,7 @@ public class Friends
         Console.WriteLine("Completed.");
     }
 
+    //counting and adding nodes and edges data
     private static void AddNodeData(Dictionary<string, int> edges,
         HashSet<string> nodes,
         Dictionary<string, CharacterNode> nodes_ext,
