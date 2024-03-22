@@ -151,9 +151,16 @@ public class Friends
             edges.Add(dic_key, weight);
         }
 
+        //adding source character
         if (!nodes!.Contains(source))
         {
             nodes.Add(source);
+        }
+
+        //adding target character
+        if (!nodes!.Contains(target))
+        {
+            nodes.Add(target);
         }
 
         bool is_self = source == target;
