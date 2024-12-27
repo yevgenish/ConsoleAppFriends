@@ -3,7 +3,7 @@
 Combine each season episode dialogues into one file.<br />
 Used for Social Networks project.<br />
 
-Source files:
+Source files (episode dialogues):
 
 Download all  (179.66 kB)
 
